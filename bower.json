@@ -1,0 +1,23 @@
+{
+  "name": "csvfilegenerator",
+  "version": "0.0.1",
+  "description": "JS Library to generate a csv file on the fly",
+  "main": "dist/main.js",
+  "author": {
+    "name": "Juan Tabares",
+    "email": "juan.ctt@live.com"
+  },
+  "repository": {
+    "url": "https://github.com/jctt1983/csvfilegenerator",
+    "type": "https"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
