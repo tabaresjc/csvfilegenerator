@@ -4,7 +4,7 @@ module.exports = {
     indent: '  ',
     src: 'lib/main.js',
     dest: 'dist/main.js',
-    returnExportsGlobal: '<%= name %>',
+    returnExportsGlobal: '<%= pkg.name %>',
     deps: {
       default: [],
       amd: [],

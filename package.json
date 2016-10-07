@@ -1,6 +1,6 @@
 {
   "name": "csvfilegenerator",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "JS Library to generate a csv file on the fly",
   "main": "dist/main.js",
   "readmeFilename": "README.md",
