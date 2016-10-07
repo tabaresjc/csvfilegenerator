@@ -4,7 +4,7 @@ module.exports = {
     stripBanners: true
   },
   dist: {
-    src: ['dist/main.js'],
-    dest: 'dist/main.js'
+    src: ['dist/csvfilegenerator.js'],
+    dest: 'dist/csvfilegenerator.js'
   }
 }

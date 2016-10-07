@@ -2,7 +2,7 @@
   "name": "CsvFileGenerator",
   "version": "0.0.3",
   "description": "JS Library to generate a csv file on the fly",
-  "main": "dist/main.js",
+  "main": "dist/csvfilegenerator.js",
   "readmeFilename": "README.md",
   "author": {
     "name": "Juan Tabares",

@@ -3,7 +3,7 @@ module.exports = {
     template: 'umd',
     indent: '  ',
     src: 'lib/main.js',
-    dest: 'dist/main.js',
+    dest: 'dist/csvfilegenerator.js',
     returnExportsGlobal: '<%= pkg.name %>',
     objectToExport: 'CsvFileGenerator',
     deps: {

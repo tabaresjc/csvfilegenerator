@@ -2,7 +2,9 @@
   "name": "CsvFileGenerator",
   "version": "0.0.3",
   "description": "JS Library to generate a csv file on the fly",
-  "main": "dist/main.js",
+  "main": [
+		"dist/csvfilegenerator.js"
+	],
   "author": {
     "name": "Juan Tabares",
     "email": "juan.ctt@live.com"

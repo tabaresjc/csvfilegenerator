@@ -4,6 +4,6 @@ module.exports = {
   },
   dist: {
     src: '<%= concat.dist.dest %>',
-    dest: 'dist/main.min.js'
+    dest: 'dist/csvfilegenerator.min.js'
   }
 }
